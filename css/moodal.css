@@ -1,0 +1,5 @@
+body, html, div {
+  padding:0;
+  marging:0;
+  view-box:border-box;
+}
